@@ -1,4 +1,4 @@
-<body style="font-family:sans-serif">
+<body style="font-family: mono-space">
 ## Hi 👋, I'm Mikias from Ethiopia
 
 ### Connect with me:</h3>
