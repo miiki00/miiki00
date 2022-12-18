@@ -1,5 +1,5 @@
 <body style="font-family: mono-space">
-## Hi 👋, I'm Mikias from Ethiopia
+<h2>Hi 👋, I'm Mikias from Ethiopia</h2>
 
 ### Connect with me:</h3>
    <a href="https://linkedin.com/in/https://www.linkedin.com/in/mikias-abiy-753177253" target="blank">
