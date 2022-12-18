@@ -1,6 +1,5 @@
-<body style="font-family: Inconsolata">
-<h2>Hi 👋, I'm Mikias from Ethiopia</h2>
 
+- Hi 👋, I'm Mikias from Ethiopia
 ### Connect with me:</h3>
    <a href="https://linkedin.com/in/https://www.linkedin.com/in/mikias-abiy-753177253" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> 
@@ -22,4 +21,3 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miiki00&show_icons=true&locale=en&layout=compact" alt="miiki00"/>
    
    [![Mikias's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiki00)](https://github.com/anuraghazra/github-readme-stats)
-</body>
